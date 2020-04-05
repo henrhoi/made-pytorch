@@ -1,5 +1,5 @@
 # MADE (Masked Autoencoder Distribution Estimation) in PyTorch
-PyTorch implementations of MADE (Masked Autoencoder Distribution Estimation) and autoregressive models.
+PyTorch implementations of MADE (Masked Autoencoder Distribution Estimation) based on [MADE: Masked Autoencoder for Distribution Estimation](https://arxiv.org/abs/1502.03509) by Germain et. al. and autoregressive models.
 
 ### Models
 
