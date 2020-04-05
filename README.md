@@ -1,7 +1,7 @@
 # MADE (Masked Autoencoder Distribution Estimation) in PyTorch
 PyTorch implementations of MADE (Masked Autoencoder Distribution Estimation) based on [MADE: Masked Autoencoder for Distribution Estimation](https://arxiv.org/abs/1502.03509) by Germain et. al. and autoregressive models.
 
-### Models
+## Models
 
 **MADE - Fitting 2D Data:**
 
@@ -30,7 +30,7 @@ For the edge case of when <img src="https://render.githubusercontent.com/render/
 
 One may find the [PixelCNN++](https://arxiv.org/abs/1701.05517) helpful for more information on discretized mixture of logistics.
 
-### Results and samples
+## Results and samples
 
 | Model | Dataset |  Result/Samples |
 |:---:|:---:|:---:|
